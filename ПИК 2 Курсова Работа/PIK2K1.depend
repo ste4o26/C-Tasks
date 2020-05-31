@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558424602 source:/home/ste4o/cProjects/PIK2K1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
